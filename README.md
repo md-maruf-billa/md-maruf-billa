@@ -3,8 +3,9 @@
 
 I am a junior front-end developer. I use HTML, CSS, Tailwindcss, Bootstrap, Material Tailwind, and DaisyUI for developing the Front-end. For Developing the server side I use Node JS, Express JS, MongoDB, and Firebase for authentication.
 
-Skills: HTML / CSS / JavaScript / React JS / Node JS / Express JS / MongoDB / FireBase
-
+## Current State
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=dark)](https://git.io/streak-stats)
 - 🔭 I’m currently working on a School Management Project. 
 - 🌱 I’m currently learning Next JS 
 - 👯 I’m looking to collaborate on a Junior Web developer 
