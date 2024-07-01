@@ -3,9 +3,8 @@
 
 I am a junior front-end developer. I use HTML, CSS, Tailwindcss, Bootstrap, Material Tailwind, and DaisyUI for developing the Front-end. For Developing the server side I use Node JS, Express JS, MongoDB, and Firebase for authentication.
 
-## Current State
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=dark)](https://git.io/streak-stats)
+### Current State
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=merko)](https://git.io/streak-stats)
 
 
 
