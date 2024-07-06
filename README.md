@@ -7,6 +7,8 @@
 ### Daily Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=merko)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=tokyonight&card_width=1200&card_height=600)](https://git.io/streak-stats)
+
 
 
 ### Skills
