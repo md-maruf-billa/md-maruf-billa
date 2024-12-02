@@ -1,12 +1,19 @@
 
 ![Front-end Developer](https://i.postimg.cc/dV2dkVrP/banner.jpg)
 ### About me 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=900&random=false&width=435&lines=Hey!!+I+am+Abumahid+Islam+;I+am+a+Front-End+Web+Developer.+;My+deep+knowledge+in-;HTML%2C+CSS%2C+Javascript%2C+React%2C;Aslo+known+as+Next.js%2C+Node+Js%2C+;Express+js%2C+MongoDB%2C+FireBase)](https://git.io/typing-svg)
+
+
+ I'm a Front-End Developer with expertise in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I also know back-end technology Node.JS, Express.JS, MongoDB, and Mongoose.
+
+I specialize in crafting responsive, user-friendly web applications and contributing to innovative projects that solve real-world problems.
+
+I’m pursuing a Computer Science and Engineering degree at Kurigram Polytechnic Institute (2022–Present) while continuously expanding my skills in modern web technologies.
 
 
 ### Daily Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-maruf-billa&theme=merko)](https://git.io/streak-stats)
-
+<div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
+  <img src="https://streak-stats.demolab.com?user=md-maruf-billa&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
+</div>
 
 
 
@@ -33,7 +40,12 @@
 
 ### Overviews
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-maruf-billa)](https://github.com/anuraghazra/github-readme-stats)
+<div style="width: 100%; display: flex; justify-content: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=md-maruf-billa" alt="Anurag's GitHub stats" style="width: 100%; height: auto;" />
+  </a>
+</div>
+
 
 
 ### Find me
@@ -45,7 +57,8 @@
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>
-<a target="_blank" href="https://abumahid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
+<a target="_blank" href="https://abumahid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+	
 <a target="_blank" href="https://www.linkedin.com/in/md-abu-mahid-islam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:dev.abumahid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@mdaabumahidislam"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
