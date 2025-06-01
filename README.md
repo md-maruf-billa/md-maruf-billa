@@ -1,31 +1,66 @@
 
 ![Front-end Developer](https://i.postimg.cc/dV2dkVrP/banner.jpg)
-### About me 
+### 🤵About me 
+---
 
+Assalamualaikum and welcome! 
 
- I'm a Front-End Developer with expertise in HTML, CSS, JavaScript, TypeScript, React.js, and Next.js. I also know back-end technology Node.JS, Express.JS, MongoDB, and Mongoose.
+I'm Md Abu-Mahid, a dedicated and enthusiastic `Full-Stack Developer` based in Rangpur, Bangladesh. I specialize in building fast, clean, and scalable web applications using modern tools like `TypeScript`, `Next.js`, `React.js`, `Node.js`, `Express.js`, `MongoDB`, `and PostgreSQL`.
 
-I specialize in crafting responsive, user-friendly web applications and contributing to innovative projects that solve real-world problems.
+With a strong foundation in `HTML`, `CSS`, and responsive UI frameworks like `Tailwind CSS`, `Shadcn UI`, `Bootstrap`, and `Ant Design`, I bring user interfaces to life that are both visually appealing and functionally robust. I’m passionate about creating seamless user experiences that are accessible, modern, and performance driven.
 
-I’m pursuing a Computer Science and Engineering degree at Kurigram Polytechnic Institute (2022–Present) while continuously expanding my skills in modern web technologies.
+On the backend, I focus on developing secure, maintainable APIs and full-featured systems using `Express.js`, `Prisma`, and `JWT`. I’ve worked with both `MongoDB` and `PostgreSQL` and know how to structure data models for real-world use cases. I also enjoy integrating tools like Firebase for authentication and hosting, `Zod` for validation, and TanStack Query for efficient data handling.
 
+##### 🔧 My Technical Snapshot:
 
-### Daily Streak
+ - Frontend: React.js, Next.js, Redux, Tailwind CSS, Bootstrap, Shadcn UI
+
+ - Backend: Node.js, Express.js, TypeScript, PostgreSQL, MongoDB, Prisma, Mongoose, JWT
+
+ - Dev Tools: Figma, Adobe Illustrator, Canva, Firebase, Git, VS Code
+
+ - Practices: Agile development, RESTful API design, Secure authentication, Performance optimization
+
+##### 🚀 What I’ve Built:
+I’ve led and contributed to several team and solo projects, including:
+
+ - ReviewHub – A review platform with real-time updates, analytics, admin moderation, and secure payments.
+
+ - Jobify – A job portal with ATS features, resume builder, in-app messaging, and multilingual support.
+
+ - Gulf Basket – An e-commerce platform with advanced search, secure role-based access, and real-time product management.
+
+*Each project has strengthened my ability to problem-solve, collaborate, and deliver high-quality solutions under tight deadlines.*
+
+##### 💬 What Drives Me:
+
+I love solving complex problems, writing clean and efficient code, and constantly learning new technologies. I'm always seeking ways to optimize performance, improve UX, and contribute to projects that have real impact.
+
+##### 🤝 Let’s Connect!
+
+I’m always open to collaborating on exciting tech projects or connecting with like-minded professionals. Whether you're hiring, building something cool, or just want to chat tech feel free to reach out!
+
+<br/>
+
+### 📈Daily Streak
+---
 <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
   <img src="https://streak-stats.demolab.com?user=md-maruf-billa&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
 
-
+<br/>
+<br/>
 
 
 ### Skills
 <p align="center">
+<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<span style="padding:5px; background-color:#161c27;border-redius:10px;"><img width="50" height="50" src="https://seekicon.com/free-icon-download/next-js_1.png"/></span>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
 
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
