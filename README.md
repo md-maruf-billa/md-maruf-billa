@@ -1,5 +1,5 @@
 
-![Front-end Developer](https://i.postimg.cc/dV2dkVrP/banner.jpg)
+![Front-end Developer](./images/banner.png)
 ### 🤵About me 
 ---
 
@@ -44,6 +44,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 
 ### 📈Daily Streak
 ---
+<br/>
 <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
   <img src="https://streak-stats.demolab.com?user=md-maruf-billa&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
@@ -52,50 +53,60 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 <br/>
 
 
-### Skills
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<span style="padding:5px; background-color:#161c27;border-redius:10px;"><img width="50" height="50" src="https://seekicon.com/free-icon-download/next-js_1.png"/></span>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/python.png"/>
-
-
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+### ☠️Skills
+---
+<br/>
+<p align="center" style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; justify-content:center;">
+  <image src="./icons/next.png " />
+  <image src="./icons/react.png" />
+  <image src="./icons/redux.png" />
+  <image src="./icons/JavaScript.png" />
+  <image src="./icons/typescript.png" />
+  <image src="./icons/node.png" />
+  <image src="./icons/express.png" />
+  <image src="./icons/mongo.png" />
+  <image src="./icons/mongoose.png" />
+  <image src="./icons/sql.png" />
+  <image src="./icons/prisma.png" />
+  <image src="./icons/firebase.png" />
+  <image src="./icons/tailwind.png" />
+  <image src="./icons/Bootsrap.png" />
+  <image src="./icons/css.png" />
+  <image src="./icons/HTML.png" />
 </p>
 
-### Overviews
+<br/>
+<br/>
 
+
+### 🔦Overviews
+---
+<br/>
 <div style="width: 100%; display: flex; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a style="width:100%" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=md-maruf-billa" alt="Anurag's GitHub stats" style="width: 100%; height: auto;" />
   </a>
 </div>
 
+<br/>
+<br/>
 
+### 📞Find me
 
-### Find me
-
-<hr>
+---
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
-   <br>
-<br>
+</p>      
+<br/>
+<div style="display:flex; align-items:center; gap:10px; flex-wrap:wrap; justify-content:center;">
+
 <a target="_blank" href="https://abumahid-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
-	
-<a target="_blank" href="https://www.linkedin.com/in/md-abu-mahid-islam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+	<a target="_blank" href="https://www.linkedin.com/in/md-abu-mahid-islam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:dev.abumahid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://medium.com/@mdaabumahidislam"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/Abumahidislam"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 
-<br>
-</p>      
+
+</div>
