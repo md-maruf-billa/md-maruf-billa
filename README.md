@@ -52,6 +52,9 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 <br/>
 <br/>
 
+### 🅰️Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=md-maruf-billa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☠️Skills
 ---
