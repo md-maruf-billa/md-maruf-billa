@@ -56,7 +56,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 ---
 
 <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maruf-billa&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maruf-billa&hide_border=true&card_width=1280&card_height=460" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
 
 ### ☠️Skills
