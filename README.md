@@ -59,7 +59,6 @@ I’m always open to collaborating on exciting tech projects or connecting with 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maruf-billa&hide_border=true&card_width=1280&card_height=460" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=md-maruf-billa)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ☠️Skills
 ---
