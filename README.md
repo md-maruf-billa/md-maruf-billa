@@ -5,7 +5,7 @@
 
 Assalamualaikum and welcome! 
 
-I'm Md Abu-Mahid, a dedicated and enthusiastic `Full-Stack Developer` based in Rangpur, Bangladesh. I specialize in building fast, clean, and scalable web applications using modern tools like `TypeScript`, `Next.js`, `React.js`, `Node.js`, `Express.js`, `MongoDB`, `and PostgreSQL`.
+I'm Md Abu-Mahid, a dedicated and enthusiastic `Full-Stack Developer` based in Rangpur, Bangladesh. I specialize in building fast, clean, and scalable web applications using modern tools like `TypeScript`, `Next.js`, `React.js`, `Node.js`, `Express.js`,`Nest.js`, `MongoDB`, `and PostgreSQL`.
 
 With a strong foundation in `HTML`, `CSS`, and responsive UI frameworks like `Tailwind CSS`, `Shadcn UI`, `Bootstrap`, and `Ant Design`, I bring user interfaces to life that are both visually appealing and functionally robust. I’m passionate about creating seamless user experiences that are accessible, modern, and performance driven.
 
