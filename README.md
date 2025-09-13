@@ -46,7 +46,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 ---
 <br/>
 <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
-  <img src="https://streak-stats.demolab.com?user=md-maruf-billa&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
+  <img src="https://streak-stats.demolab.com?user=abumahid&hide_border=true&card_width=1280&card_height=360" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
 
 <br/>
@@ -56,7 +56,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 ---
 
 <div style="width: 100%; display: flex; justify-content: center; overflow: hidden;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-maruf-billa&hide_border=true&card_width=1280&card_height=460" alt="GitHub Streak" style="width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abumahid&hide_border=true&card_width=1280&card_height=460" alt="GitHub Streak" style="width: 100%; height: auto;" />
 </div>
 
 
@@ -91,7 +91,7 @@ I’m always open to collaborating on exciting tech projects or connecting with 
 <br/>
 <div style="width: 100%; display: flex; justify-content: center;">
   <a style="width:100%" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=md-maruf-billa" alt="Anurag's GitHub stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abumahid" alt="Anurag's GitHub stats" style="width: 100%; height: auto;" />
   </a>
 </div>
 
